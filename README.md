@@ -18,10 +18,7 @@ A Flutter app that fetches data from the Pokémon API with the following feature
 
 ### Screenshots
 ![Screenshot_1735470510](https://github.com/user-attachments/assets/d761c09e-2e7f-45bc-88fa-7f96193c7960)
-
 ![Screenshot_1735470522](https://github.com/user-attachments/assets/e0990826-1785-4767-b37d-cde2111681f6)
-
 ![Screenshot_1735470532](https://github.com/user-attachments/assets/392d89e7-1918-4433-a5e0-168a5f708c6d)
-
 ![Screenshot_1735470604](https://github.com/user-attachments/assets/d65e60d8-f01c-4203-bbf7-923c33bad137)
 
